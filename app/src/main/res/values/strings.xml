@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Etiquetas Flotantes</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_telefono">Teléfono</string>
+    <string name="hint_correo">Correo</string>
+    <string name="accion_cancelar">Cancelar</string>
+    <string name="accion_aceptar">Aceptar</string>
+</resources>
